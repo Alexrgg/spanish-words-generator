@@ -17,28 +17,38 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
+## Dataset
+
+Se ha usado como dataset para entrenar el modelo las palabras en español descargadas de https://github.com/JorgeDuenasLerin/diccionario-espanol-txt.
+
+Como conjunto de test se ha usado una fuente distinta, los diccionarios descargados de https://github.com/titoBouzout/Dictionaries. Estos diccionarios de distintos idiomas se han tenido que preprocesar para prepararlos para usarlos en la evaluación del modelo. Este preprocesado se ha realizado con el netebook `preprocesar_dic.ipynb`.
+
+
 ## Código
 
-El código para entrenar el modelo, generar las contraseñas y analizar el accuracy es `run_in_colab.ipynb`:
+El código para entrenar el modelo, generar las contraseñas y analizar el accuracy es `run_in_colab.ipynb`. En el se realizan las llamadas para realizar los siguientes pasos:
 
-### Entrenar el Modelo
+#### Entrenar el Modelo
 
 ```python
 !python3 './models.py' --training-data '{training_data}'  --output-dir '{output_dir}' --iters '{n_iters}'`
 ```
 
-### Generar Contraseñas
+#### Generar Contraseñas
 
 ```python
 !python3 './sample.py' --input-dir '{model_trained_dir}' --output '{generated_passwords}' --num-samples '{n_passwords}' --training-iters '{n_trained_iters}'
 ```
 
-### Analizar Accuracy
+#### Calcular Accuracy
 
 ```python
 !python3 './accuracy.py' --input-generated '{generated_passwords_file}' --input-test '{training_file_path}' --n-passwords-vec {n_passwords_vec}
 ```
 
+
 ## Resultados
+
+El codigo creado para analizar y genrar las gráficas se encuentra en el notebook `read_logs.ipynb`.
 
 El porcentaje de palabras generadas qué se encuentren en el conjunto de test se tomará como el accuracy. Hay qué apuntar qué no se puede esperar un 80% - 90%, por ello es razonable es conseguir entono a un 5% ya qué esto significa qué se han generado aleatoriamente 5% de las contraseñas qué no se han usado para entrenarlo.
