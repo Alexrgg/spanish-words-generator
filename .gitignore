@@ -1,0 +1,9 @@
+
+data
+data/*
+output
+output/experimento1
+output/*
+output/experimento1/*
+.DS_Store
+
