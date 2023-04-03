@@ -1,52 +1,44 @@
-# GNPassGAN
+# LenguageGAN
 
-This repository is created for the paper "GNPassGAN: Improved Generative Adversarial Networks For Trawling Offline Password Guessing"  published at ASSS 2022.
+Este repositorio contiene la práctica final de texto de la asignatura datos no estructurados. en ella se ha implementado hoy un modelo de texto generativo mediante el uso de GANs con el objetivo de generar palabras nuevas de un idioma. 
 
-GNPassGAN is an offline password guessing tool based on PassGAN with the implementation of [Gradient Normalization](https://github.com/basiclab/GNGAN-PyTorch) in Pytorch 1.10.
+Para ello se ha entrenado primero la GAN con el lenguaje español. Después, se han probado a generar palabras nuevas y midiendo cuantas de esas palabras nuevas se encuntran en el conjunto de test, es decir, son palabras qué verdaderamente existen.
 
-The model used in PassGAN is inspired from paper [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) and its pytorch version implementation [improved_wgan_training](https://github.com/caogang/wgan-gp).
+El proyecto está basado en las implemntaciones de GNPassGAN y PassGAN con la implementación de [Gradient Normalization](https://github.com/basiclab/GNGAN-PyTorch) en Pytorch 1.10.
 
-## Install dependencies
+El modelo utilizado en PassGAN está inspirado en el artículo [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) y su versión pytorch [improved_wgan_training](https://github.com/caogang/wgan-gp).
+
+## Instalar dependencias
 
 ```bash
-# requires CUDA 10 to be pre-installed
+# requiere que CUDA 10 esté preinstalado
 python3 -m venv .venv 
 source .venv/bin/activate  
 pip3 install -r requirements.txt
 ```
-## Generate password samples
-```bash
-# generate 100,000,000 passwords
-python3 sample.py \
-	--input-dir output \
-	--output generated/sample.txt \
-  	--seq-length 12 \
-  	--num-samples 10000000
-```
-## Train your own models
 
-1) Prepare your own dataset for training first.
-2) Train for 200,000 iterations, saving checkpoints every 10,000.
-3) Use the default hyperparameters from the paper for training.
-```
-python3 models.py --training-data data/YOUR TRAINING DATA --output-dir output
+## Código
+
+El código para entrenar el modelo, generar las contraseñas y analizar el accuracy es `run_in_colab.ipynb`:
+
+### Entrenar el Modelo
+
+```python
+!python3 './models.py' --training-data '{training_data}'  --output-dir '{output_dir}' --iters '{n_iters}'`
 ```
 
-## Check matching accuracy
-```bash
-# change data path
-python3 accuracy.py \
-	--input-generated generated/gnpassgan/10/180000iter/8.txt \
-	--input-test data/test_rockyou10.txt
+### Generar Contraseñas
+
+```python
+!python3 './sample.py' --input-dir '{model_trained_dir}' --output '{generated_passwords}' --num-samples '{n_passwords}' --training-iters '{n_trained_iters}'
 ```
 
-## Citation
-If you find our work is relevant to your research, please cite:
-```bash
-@inproceedings{yugnpassgan,
-author={Yu, Fangyi and Martin, Miguel Vargas},
-booktitle={2022 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)},
-title={GNPassGAN: Improved Generative Adversarial Networks For Trawling Offline Password Guessing},
-year={2022},
-pages={10-18},
-doi={10.1109/EuroSPW55150.2022.00009}}
+### Analizar Accuracy
+
+```python
+!python3 './accuracy.py' --input-generated '{generated_passwords_file}' --input-test '{training_file_path}' --n-passwords-vec {n_passwords_vec}
+```
+
+## Resultados
+
+El porcentaje de palabras generadas qué se encuentren en el conjunto de test se tomará como el accuracy. Hay qué apuntar qué no se puede esperar un 80% - 90%, por ello es razonable es conseguir entono a un 5% ya qué esto significa qué se han generado aleatoriamente 5% de las contraseñas qué no se han usado para entrenarlo.
