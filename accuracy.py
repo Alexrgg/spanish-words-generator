@@ -71,6 +71,7 @@ def accuracy_vec(path_generated, path_test, n_passwords_vec):
 
         generated_data = set(generated_file[:int(n_passwords)])
         overlap = generated_data & test_data
+        print(overlap)
         result = round(float(len(overlap))/len(test_data) * 100, 4)
         result_df=pd.DataFrame({"path_generated":[path_generated], \
             "path_test":[path_test], \
@@ -80,7 +81,7 @@ def accuracy_vec(path_generated, path_test, n_passwords_vec):
             "overlap":[len(overlap)], \
             "guessing accuracy":[result]})
         df=pd.concat([df,result_df])
-
+        
     #Guardar resultados
     report_name='/'.join(path_generated.split('/')[0:-1])+"/report.csv"
     try:
