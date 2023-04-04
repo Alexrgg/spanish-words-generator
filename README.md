@@ -52,3 +52,20 @@ El código para entrenar el modelo, generar las contraseñas y analizar el accur
 El codigo creado para analizar y genrar las gráficas se encuentra en el notebook `read_logs.ipynb`.
 
 El porcentaje de palabras generadas qué se encuentren en el conjunto de test se tomará como el accuracy. Hay qué apuntar qué no se puede esperar un 80% - 90%, por ello es razonable es conseguir entono a un 5% ya qué esto significa qué se han generado aleatoriamente 5% de las contraseñas qué no se han usado para entrenarlo.
+
+![js_complet](./img/js_complet.png)
+
+
+![train_critic_cost](./img/train_critic_cost.jpg)
+
+
+![train_gen_cost](./img/train_gen_cost.jpg)
+
+
+![Unique Words Generated](./img/Unique_Words_Generated.png)
+
+![](./img/Unique_Words_Generated_Leyend.png)
+
+![Guessing Accuracy Logaritmic](./img/guessing_accuracy_logaritmic.png)
+
+![](./img/leyenda.png)

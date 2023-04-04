@@ -71,7 +71,7 @@ def accuracy_vec(path_generated, path_test, n_passwords_vec):
 
         generated_data = set(generated_file[:int(n_passwords)])
         overlap = generated_data & test_data
-        print(overlap)
+        #print(overlap)
         result = round(float(len(overlap))/len(test_data) * 100, 4)
         result_df=pd.DataFrame({"path_generated":[path_generated], \
             "path_test":[path_test], \
