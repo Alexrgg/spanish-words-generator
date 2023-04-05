@@ -1,4 +1,4 @@
-# LenguageGAN
+# LanguageGAN
 
 Este repositorio contiene la práctica final de texto de la asignatura datos no estructurados. en ella se ha implementado hoy un modelo de texto generativo mediante el uso de GANs con el objetivo de generar palabras nuevas de un idioma. 
 
