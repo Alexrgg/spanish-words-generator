@@ -1,5 +1,8 @@
 
-output/experimento1/evaluacion/*
-output/experimento1/checkpoints/*
+output/experimento1/checkpoints/*10000*.pth
+output/experimento1/evaluacion/generated_dict_train10000*.txt
+#output/experimento1/evaluacion/generated_dict_train20000_len100000.txt
+output/experimento1/evaluacion/*.txt
+
 .DS_Store
 

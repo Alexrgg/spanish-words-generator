@@ -1,0 +1,51 @@
+,path_generated,path_test,n_passwords,n_unique_generated_passwords,n_unique_test_passwords,overlap,guessing accuracy,seed,n_train_iter,idioma
+0,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Español/10.txt,10000,9908,101267,248,0.2449,,10000,Español
+1,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Español/10.txt,100000,93453,101267,1542,1.5227,,10000,Español
+2,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Español/10.txt,1000000,787236,101267,6080,6.0039,,10000,Español
+3,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Español/10.txt,10000000,5612201,101267,14105,13.9285,,10000,Español
+4,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Español/10.txt,100000000,11208972,101267,18061,17.835,,10000,Español
+5,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Español/10.txt,10000,9952,101267,223,0.2202,,20000,Español
+6,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Español/10.txt,100000,96259,101267,1865,1.8417,,20000,Español
+7,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Español/10.txt,1000000,848486,101267,8288,8.1843,,20000,Español
+8,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Español/10.txt,10000000,6399732,101267,20355,20.1003,,20000,Español
+9,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Español/10.txt,100000000,39925931,101267,35471,35.0272,,20000,Español
+10,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/French/10.txt,10000,9908,9351,0,0.0,,10000,Frances
+11,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/French/10.txt,100000,93453,9351,0,0.0,,10000,Frances
+12,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/French/10.txt,1000000,787236,9351,0,0.0,,10000,Frances
+13,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/French/10.txt,10000000,5612201,9351,5,0.0535,,10000,Frances
+14,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/French/10.txt,100000000,11208972,9351,12,0.1283,,10000,Frances
+15,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/French/10.txt,10000,9952,9351,0,0.0,,20000,Frances
+16,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/French/10.txt,100000,96259,9351,0,0.0,,20000,Frances
+17,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/French/10.txt,1000000,848486,9351,1,0.0107,,20000,Frances
+18,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/French/10.txt,10000000,6399732,9351,14,0.1497,,20000,Frances
+19,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/French/10.txt,100000000,39925931,9351,56,0.5989,,20000,Frances
+20,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Italian/10.txt,10000,9908,14557,0,0.0,,10000,Italiano
+21,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Italian/10.txt,100000,93453,14557,2,0.0137,,10000,Italiano
+22,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Italian/10.txt,1000000,787236,14557,34,0.2336,,10000,Italiano
+23,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Italian/10.txt,10000000,5612201,14557,159,1.0923,,10000,Italiano
+24,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Italian/10.txt,100000000,11208972,14557,236,1.6212,,10000,Italiano
+25,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Italian/10.txt,10000,9952,14557,2,0.0137,,20000,Italiano
+26,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Italian/10.txt,100000,96259,14557,5,0.0343,,20000,Italiano
+27,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Italian/10.txt,1000000,848486,14557,35,0.2404,,20000,Italiano
+28,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Italian/10.txt,10000000,6399732,14557,210,1.4426,,20000,Italiano
+29,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Italian/10.txt,100000000,39925931,14557,711,4.8842,,20000,Italiano
+30,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Portuguese (European)/10.txt,10000,9908,3597,0,0.0,,10000,Portugues
+31,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Portuguese (European)/10.txt,100000,93453,3597,3,0.0834,,10000,Portugues
+32,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Portuguese (European)/10.txt,1000000,787236,3597,16,0.4448,,10000,Portugues
+33,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Portuguese (European)/10.txt,10000000,5612201,3597,59,1.6403,,10000,Portugues
+34,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Portuguese (European)/10.txt,100000000,11208972,3597,86,2.3909,,10000,Portugues
+35,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Portuguese (European)/10.txt,10000,9952,3597,2,0.0556,,20000,Portugues
+36,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Portuguese (European)/10.txt,100000,96259,3597,6,0.1668,,20000,Portugues
+37,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Portuguese (European)/10.txt,1000000,848486,3597,24,0.6672,,20000,Portugues
+38,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Portuguese (European)/10.txt,10000000,6399732,3597,64,1.7793,,20000,Portugues
+39,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Portuguese (European)/10.txt,100000000,39925931,3597,199,5.5324,,20000,Portugues
+40,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Catalan/10.txt,10000,9908,13235,0,0.0,,10000,Catalan
+41,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Catalan/10.txt,100000,93453,13235,0,0.0,,10000,Catalan
+42,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Catalan/10.txt,1000000,787236,13235,10,0.0756,,10000,Catalan
+43,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Catalan/10.txt,10000000,5612201,13235,39,0.2947,,10000,Catalan
+44,./output/experimento1/evaluacion/generated_dict_train10000_len100000000.txt,./data/Catalan/10.txt,100000000,11208972,13235,71,0.5365,,10000,Catalan
+45,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Catalan/10.txt,10000,9952,13235,0,0.0,,20000,Catalan
+46,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Catalan/10.txt,100000,96259,13235,0,0.0,,20000,Catalan
+47,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Catalan/10.txt,1000000,848486,13235,7,0.0529,,20000,Catalan
+48,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Catalan/10.txt,10000000,6399732,13235,62,0.4685,,20000,Catalan
+49,./output/experimento1/evaluacion/generated_dict_train20000_len100000000.txt,./data/Catalan/10.txt,100000000,39925931,13235,260,1.9645,,20000,Catalan
