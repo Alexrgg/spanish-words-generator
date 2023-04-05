@@ -1,0 +1,502 @@
+abstencionismo
+abstencionista
+abstracionismo
+aceitabilidade
+adaptabilidade
+adeus	[CAT=in]
+administrativo
+admirabilidade
+algo	[CAT=adv]
+alienabilidade
+alimentividade
+aljubarrotense
+alterabilidade
+anglo-saxónico
+aniversariante
+antialcoolismo
+anticoagulante
+antidogmatismo
+antropométrico
+aplicabilidade
+apostolicidade
+aquisitividade
+arbitrariedade
+aristocratismo
+aristocratizar
+artificialismo
+até	[CAT=prep]
+australopiteco
+austro-húngaro
+autodestruição
+basta	[CAT=in]
+biocombustível
+biodiversidade
+bissexualidade
+bravo	[CAT=in]
+bumba	[CAT=in]
+caleidoscópico
+campomaiorense
+característica
+característico
+caracterizante
+caracterologia
+cardiovascular
+cerealicultura
+chiça	[CAT=in]
+cilindricidade
+cinematografar
+cinematografia
+cinquentenário
+circum-navegar
+circunferência
+circunstancial
+circunstanciar
+citoplasmático
+civilizacional
+classificativo
+codelinquência
+colateralidade
+com	[CAT=prep]
+como	[CAT=con]
+companheirismo
+compartilhante
+compartimentar
+compassividade
+compaternidade
+compatibilizar
+comportamental
+conceptualizar
+concessionário
+confraternizar
+congenialidade
+congestionante
+conglomerático
+conglomerativo
+conselheirismo
+consensualizar
+conservantismo
+constitucional
+consubstancial
+consubstanciar
+contabilístico
+conta-corrente
+contagiosidade
+contextualizar
+contingentismo
+contorcionismo
+contrabalançar
+contrabandismo
+contradeclarar
+contramanobrar
+contraofensiva
+contraproduzir
+contrarrelógio
+contratualizar
+convulsionante
+cooperativismo
+coparticipante
+corporativismo
+correspondente
+correspondente
+cosmopolitismo
+cristalinidade
+cristalografia
+cristianíssimo
+crustaceologia
+defetibilidade
+definibilidade
+desavergonhado
+descaraterizar
+desclassificar
+desconcertante
+desconfortante
+desencaixilhar
+desencarreirar
+desenclaustrar
+desenvencilhar
+desinquietante
+desmineralizar
+desmonopolizar
+desnaturalizar
+despenitenciar
+despolarizante
+despretensioso
+destrutividade
+desviacionismo
+determinístico
+difusibilidade
+dirigibilidade
+discricionário
+discriminativo
+disponibilizar
+diversificante
+dubitabilidade
+eletrodinâmico
+eletromecânico
+eletronegativo
+eletropositivo
+eletrovalência
+elementaridade
+encarniçamento
+enciclopedismo
+endoplasmático
+envergonhadela
+epistolografia
+escolasticismo
+especificidade
+espectrografia
+espectrometria
+espermatozoide
+espiritualismo
+espiritualizar
+espontaneidade
+espreguiçadela
+estrangeirismo
+estupefaciente
+excentricidade
+excitabilidade
+execrabilidade
+exequibilidade
+expedicionário
+expressionismo
+expressionista
+expressividade
+extraordinário
+extraterrestre
+extravaganciar
+fantasmagórico
+fenomenalidade
+ferromagnético
+figurabilidade
+físico-químico
+fisioterapeuta
+flutuabilidade
+fosforescência
+fotolitografia
+fotomagnetismo
+frequencímetro
+fuliginosidade
+gastroenterite
+generacionismo
+gramaticalismo
+grandessíssimo
+habitabilidade
+halterofilismo
+heliocentrismo
+hidrocarboneto
+historiografia
+honorabilidade
+honorificência
+hurra	[CAT=in]
+identificativo
+idiossincrasia
+imaterialidade
+imparcialidade
+impassibilizar
+impecabilidade
+imperscrutável
+impertinenciar
+impessoalidade
+impopularidade
+impossibilitar
+impotabilidade
+imprescindível
+impressionante
+impressionismo
+impressionista
+improficiência
+improficuidade
+imputabilidade
+incandescência
+incoexistência
+incomensurável
+incomplacência
+incompreendido
+incompressível
+inconfidencial
+inconformidade
+inconsequência
+inconsistência
+incontingência
+incontinuidade
+inconveniência
+incorporeidade
+incurabilidade
+indecomponível
+indelebilidade
+indeterminismo
+indiferenciado
+indiferentismo
+indiscriminado
+indistinguível
+individualismo
+individualizar
+industrializar
+infalibilidade
+infantojuvenil
+inflorescência
+infraestrutura
+injustificação
+inoportunidade
+inquestionável
+insensibilizar
+insignificante
+instintividade
+instrumentista
+insubsistência
+insubstituível
+insurdescência
+intercambiável
+intergaláctico
+interlocutório
+intermolecular
+interpretativo
+interrogatório
+intersubjetivo
+intervertebral
+intolerantismo
+intra-hepático
+intransigência
+intransponível
+invisibilidade
+irascibilidade
+irreconhecível
+irrepreensível
+irreverencioso
+irritabilidade
+jesus	[CAT=in]
+joões-pestanas
+jurisprudência
+jusnaturalismo
+lamelibrânquio
+licenciosidade
+liquidificante
+livra	[CAT=in]
+locomobilidade
+locomotividade
+magistralidade
+magniloquência
+mais	[CAT=adv]
+mal-agradecido
+mal-aventurado
+maritabilidade
+materializante
+mato-grossense
+melodramatizar
+metalomecânico
+meteorologista
+meticulosidade
+micronutriente
+misericordioso
+monocromatismo
+monossilabismo
+monstruosidade
+monumentalizar
+morra	[CAT=in]
+multiplicativo
+multiplicidade
+municipalidade
+nanotecnologia
+navegabilidade
+neocatolicismo
+neoclassicismo
+neuropatologia
+obrigacionista
+obsequiosidade
+obstrucionismo
+obstrucionista
+ocasionalidade
+ocidentalidade
+octingentésimo
+organizacional
+oxalá	[CAT=in]
+parapsicologia
+paroquialidade
+particularismo
+particularizar
+passionalidade
+per	[CAT=prep]
+percussionista
+perfeccionista
+perfetibilizar
+permeabilidade
+perniciosidade
+perspetividade
+pimba	[CAT=in]
+plausibilidade
+pois	[CAT=con]
+polidesportivo
+politonalidade
+por	[CAT=prep]
+porra	[CAT=in]
+pós	[CAT=pref]
+posterioridade
+pré-colombiano
+preconceituoso
+preestabelecer
+preponderância
+pré	[CAT=pref]
+prestabilidade
+priscilianismo
+probabilístico
+protestantismo
+provincialismo
+provincianismo
+provisoriedade
+psicopatologia
+psicossomático
+pumba	[CAT=in]
+pusilanimidade
+quão	[CAT=adv]
+quatrocentismo
+quê	[CAT=pint]
+quer	[CAT=adv]
+quer	[CAT=con]
+radioatividade
+radiotelevisor
+recalcificante
+recetibilidade
+reconstituição
+recrudescência
+redutibilidade
+reflorescência
+regressividade
+reivindicativo
+relampagueante
+repetibilidade
+representativo
+republicanismo
+republicanizar
+resplandecente
+retractilidade
+retroatividade
+retroversidade
+revisibilidade
+revogabilidade
+revolucionário
+sacerdotalismo
+sadomasoquismo
+salve	[CAT=in]
+sanguinolência
+saturabilidade
+sedentariedade
+seja	[CAT=con]
+sem	[CAT=prep]
+semestralidade
+semiautomático
+semiconsciente
+sensibilizante
+separabilidade
+servomecanismo
+shakespeariano
+simplificativo
+simultaneidade
+sintomatologia
+sob	[CAT=prep]
+sobrealimentar
+sobrerrealismo
+sobrevalorizar
+socioeconómico
+subconsciência
+subintendência
+sub	[CAT=pref]
+subsecretariar
+superabundante
+superalimentar
+supereminência
+suscetibilizar
+telefotografia
+telefotometria
+tranquilizante
+tranquilizante
+transatlântico
+transcendência
+transcendental
+trasmontanismo
+tridimensional
+trigonométrico
+ultrarrealista
+ultrassensível
+unissexualismo
+universalidade
+vegetabilidade
+venerabilidade
+ventriloquismo
+verosimilhança
+verosimilhante
+vertebralidade
+voltairianismo
+voluntariedade
+washingtoniano
+zumba	[CAT=in]
+Cobol	[CAT=np]
+sequenciamento
+Árgon	[CAT=np]
+Checoslováquia
+Corão	[CAT=np]
+Dácia	[CAT=np]
+Furna	[CAT=np]
+Girão	[CAT=np]
+Hansa	[CAT=np]
+Janus	[CAT=np]
+Lumen	[CAT=np]
+Madre	[CAT=np]
+Malva	[CAT=np]
+Mariz	[CAT=np]
+Mitra	[CAT=np]
+Moura	[CAT=np]
+Nobel	[CAT=np]
+Notre	[CAT=np]
+Oliva	[CAT=np]
+Orfeu	[CAT=np]
+Papas	[CAT=np]
+Pilar	[CAT=np]
+Pireu	[CAT=np]
+Psico	[CAT=np]
+Royal	[CAT=np]
+Saara	[CAT=np]
+Salmo	[CAT=np]
+Satan	[CAT=np]
+Satis	[CAT=np]
+Scala	[CAT=np]
+Sinai	[CAT=np]
+Sutra	[CAT=np]
+Szabo	[CAT=np]
+Taira	[CAT=np]
+Tamão	[CAT=np]
+Tarso	[CAT=np]
+Tebas	[CAT=np]
+Teseu	[CAT=np]
+Tónia	[CAT=np]
+Tudor	[CAT=np]
+Vesta	[CAT=np]
+homogeneizamos
+homogeneizemos
+homogeneizemos
+multicolorimos
+multicoluramos
+multicoluramos
+comprazeríamos
+comprouvéramos
+comprouvésseis
+desprazeríamos
+desprouvéramos
+desprouvésseis
+construíssemos
+construiríamos
+entretivéramos
+entretivésseis
+descoubéssemos
+bem-quereremos
+bem-quereríeis
+bem-quiséramos
+bem-quisésseis
+malquereríamos
+malquiséssemos
+interviéssemos
+contraviríamos
+contravínhamos
+contraviéramos
+contravenhamos
+contraviésseis
+contravenhamos

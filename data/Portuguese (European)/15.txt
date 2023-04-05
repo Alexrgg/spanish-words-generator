@@ -1,0 +1,320 @@
+abaixo-assinado
+absorvibilidade
+afora	[CAT=adv]
+afro	[CAT=pref]
+ainda	[CAT=adv]
+aliás	[CAT=adv]
+ante	[CAT=prep]
+antiaristocrata
+anticatolicismo
+anticoncecional
+anticorporativo
+antimelancólico
+antimilitarismo
+antiparalelismo
+anti	[CAT=pref]
+antropomorfismo
+antropomorfizar
+após	[CAT=prep]
+aquém	[CAT=adv]
+arreda	[CAT=in]
+artificialidade
+assim	[CAT=adv]
+associabilidade
+aterosclerótico
+audiofrequência
+augustinianismo
+autoconsciência
+automobilístico
+autopsicografia
+bioeletricidade
+caluda	[CAT=in]
+carago	[CAT=in]
+cerca	[CAT=adv]
+clandestinidade
+coadunabilidade
+coagulabilidade
+comparabilidade
+comparticipação
+compatibilidade
+concentricidade
+concetibilidade
+condescendência
+condicionalismo
+confraternidade
+congelabilidade
+consanguinidade
+conselheirático
+consentaneidade
+conservadorismo
+consuetudinário
+contemporizante
+contra-atacante
+contraindicação
+correlacionante
+correlatividade
+correligionário
+correspondência
+corrosibilidade
+cosmobiologismo
+degenerescência
+demissibilidade
+descalcificante
+descaracterizar
+descomprometido
+descomunalidade
+desconformidade
+desengordurante
+desenvergonhado
+desenvolvimento
+desinteligência
+desmagnetizante
+desnaturalidade
+despersonalizar
+desumidificador
+digestibilidade
+discriminatório
+disponibilidade
+eletrodinamismo
+eletrodoméstico
+eletromagnético
+enfim	[CAT=adv]
+então	[CAT=adv]
+escrupulosidade
+espiritualidade
+espreguiçadeira
+estupidificante
+etnomusicologia
+excecionalidade
+exemplificativo
+existencialismo
+existencialista
+exonerabilidade
+expansibilidade
+explicabilidade
+explorabilidade
+extensibilidade
+extracontratual
+extrassensorial
+extrema-direita
+fantasmagorizar
+ferrimagnetismo
+ferromagnetismo
+fibrocitológico
+georreferenciar
+germinabilidade
+gimnodesportivo
+grandiloquência
+hereditariedade
+hermafroditismo
+heterogeneidade
+homo	[CAT=pref]
+homossexualismo
+horizontalidade
+idem	[CAT=pdem]
+idiossincrático
+imaculabilidade
+impassibilidade
+impermeabilizar
+implacabilidade
+improbabilidade
+improdutividade
+impugnabilidade
+inamovibilidade
+inapelabilidade
+inatacabilidade
+inautenticidade
+incansabilidade
+incessibilidade
+incompreensível
+incorporalidade
+incredibilidade
+inculpabilidade
+individualidade
+inelegibilidade
+inexorabilidade
+inflamabilidade
+inflexibilidade
+inoculabilidade
+insaciabilidade
+insensibilidade
+insignificância
+insociabilidade
+insolvabilidade
+insolvibilidade
+insondabilidade
+instantaneidade
+intangibilidade
+intelectualizar
+interferometria
+interpeninsular
+interplanetário
+intranquilidade
+intransmissível
+intratabilidade
+invariabilidade
+invencibilidade
+inviolabilidade
+irreconciliável
+irreligiosidade
+luso-brasileiro
+mal-aconselhado
+maquinabilidade
+menos	[CAT=adv]
+mensurabilidade
+microcomputador
+microfotografia
+micro-organismo
+migo	[CAT=ppes]
+mini	[CAT=pref]
+ministerialismo
+monumentalidade
+morfossintático
+multimilionário
+multipartidário
+narcotraficante
+negociabilidade
+neocolonialismo
+neomarginalista
+neuropsicologia
+norte-americano
+obrigatoriedade
+operacionalizar
+oxigenabilidade
+para	[CAT=prep]
+parlamentarismo
+particularidade
+penetrabilidade
+percetibilidade
+perdurabilidade
+perfetibilidade
+perfectibilizar
+permutabilidade
+político-social
+ponderabilidade
+porém	[CAT=con]
+porto-alegrense
+praticabilidade
+predeterminante
+previsibilidade
+progressividade
+protoplasmático
+pudera	[CAT=in]
+quase	[CAT=adv]
+quiçá	[CAT=con]
+quinta-essência
+racionabilidade
+radioastronomia
+radiofrequência
+radiotelegrafia
+radiotelescópio
+realizabilidade
+retangularidade
+retilinearidade
+reeducabilidade
+reelegibilidade
+reformabilidade
+regenerescência
+reivindicatório
+rejuvenescência
+remissibilidade
+reprodutividade
+resgatabilidade
+resistibilidade
+respirabilidade
+resplandecência
+responsabilizar
+reversibilidade
+ridicularizante
+segregacionista
+senão	[CAT=con]
+sensacionalismo
+sensacionalista
+sentimentalismo
+sentimentalizar
+sobre-humanizar
+sócio-económica
+substancialismo
+substancialista
+substancializar
+sucessibilidade
+sugestibilidade
+superabundância
+supercarburante
+superexcelência
+suscetibilidade
+telecomunicação
+tempestuosidade
+tendenciosidade
+teórico-prático
+tradicionalismo
+tradicionalista
+transitoriedade
+transubstanciar
+trás	[CAT=prep]
+triangularidade
+trimestralidade
+tuberculosidade
+ultramodernismo
+ultrarromântico
+unissexualidade
+vice	[CAT=pref]
+vila-franquense
+vitivinicultura
+vulnerabilidade
+ciberterrorista
+Prolog	[CAT=np]
+supercomputador
+Catulo	[CAT=np]
+Dácios	[CAT=np]
+Dédalo	[CAT=np]
+Efésio	[CAT=np]
+Gálias	[CAT=np]
+Hamlet	[CAT=np]
+Hécuba	[CAT=np]
+Hermes	[CAT=np]
+Igreja	[CAT=np]
+Jacaré	[CAT=np]
+Jargal	[CAT=np]
+Latrão	[CAT=np]
+Loiola	[CAT=np]
+Louvre	[CAT=np]
+Lucena	[CAT=np]
+Manica	[CAT=np]
+Mileto	[CAT=np]
+Múrcia	[CAT=np]
+Olimpo	[CAT=np]
+Ovídio	[CAT=np]
+Paraná	[CAT=np]
+Párias	[CAT=np]
+Passau	[CAT=np]
+Pepino	[CAT=np]
+Perseu	[CAT=np]
+Públia	[CAT=np]
+Públio	[CAT=np]
+Quanza	[CAT=np]
+Racine	[CAT=np]
+Rivera	[CAT=np]
+Ródano	[CAT=np]
+Sadova	[CAT=np]
+Sargão	[CAT=np]
+Solino	[CAT=np]
+Sueste	[CAT=np]
+Tabula	[CAT=np]
+Taishi	[CAT=np]
+Tâmega	[CAT=np]
+Tarzan	[CAT=np]
+Tauris	[CAT=np]
+Tauros	[CAT=np]
+Taurus	[CAT=np]
+Trento	[CAT=np]
+Velado	[CAT=np]
+Viçosa	[CAT=np]
+"WC	[CAT=np,G=m]"
+Xerxes	[CAT=np]
+comprouvéssemos
+desprouvéssemos
+entretivéssemos
+bem-quereríamos
+bem-quiséssemos
+contraviéssemos

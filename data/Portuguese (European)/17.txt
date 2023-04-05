@@ -1,0 +1,136 @@
+ademais	[CAT=adv]
+adentro	[CAT=adv]
+ai-jesus	[CAT=in]
+antanho	[CAT=adv]
+antiabolicionismo
+antiaristocrático
+anti-inflamatório
+apesar	[CAT=prep]
+aproveitabilidade
+aquando	[CAT=con]
+através	[CAT=adv]
+comensurabilidade
+compressibilidade
+concentracionário
+contaminabilidade
+contemplatividade
+contemporaneidade
+contra	[CAT=prep]
+contratestemunhar
+contudo	[CAT=con]
+debalde	[CAT=adv]
+decerto	[CAT=adv]
+decomponibilidade
+democrata-cristão
+demonstrabilidade
+descongestionante
+deveras	[CAT=adv]
+entanto	[CAT=adv]
+fotocondutividade
+fotoluminescência
+governamentalizar
+impenetrabilidade
+impermutabilidade
+imponderabilidade
+impraticabilidade
+inadmissibilidade
+inconsolabilidade
+indeclinabilidade
+indigestibilidade
+indiscutibilidade
+indisponibilidade
+indisputabilidade
+inescrutabilidade
+inexplicabilidade
+inexpugnabilidade
+inextensibilidade
+infectocontagioso
+institucionalizar
+internacionalizar
+invulnerabilidade
+irremissibilidade
+irresistibilidade
+irrespirabilidade
+microrradiografia
+multiculturalismo
+outrora	[CAT=adv]
+permeio	[CAT=adv]
+prestes	[CAT=adv]
+primeira-ministra
+primeiro-ministro
+proporcionalidade
+questionabilidade
+reprodutibilidade
+sargento-ajudante
+silêncio	[CAT=in]
+sobrenaturalidade
+social-democracia
+socioprofissional
+somente	[CAT=adv]
+supersticiosidade
+termoeletricidade
+todavia	[CAT=adv]
+todavia	[CAT=con]
+toxicodependência
+transmutabilidade
+ultramicroscópico
+vagão-restaurante
+zás-trás	[CAT=in]
+Ethernet	[CAT=np]
+"Java	[CAT=np,G=m]"
+"Unix	[CAT=np,G=m]"
+Cassinga	[CAT=np]
+Cenáculo	[CAT=np]
+Colonato	[CAT=np]
+Ericeira	[CAT=np]
+Escorial	[CAT=np]
+Euroásia	[CAT=np]
+Evereste	[CAT=np]
+Friburgo	[CAT=np]
+Galileia	[CAT=np]
+Germânia	[CAT=np]
+Gouveias	[CAT=np]
+Hamburgo	[CAT=np]
+Heródoto	[CAT=np]
+Hispânia	[CAT=np]
+Homérico	[CAT=np]
+Honorato	[CAT=np]
+Horácios	[CAT=np]
+"II	[CAT=np,SEM=n]"
+Ístmicos	[CAT=np]
+"IV	[CAT=np,SEM=n]"
+"IX	[CAT=np,SEM=n]"
+Jordânia	[CAT=np]
+Ladislau	[CAT=np]
+Levítico	[CAT=np]
+Marrocos	[CAT=np]
+Mitilene	[CAT=np]
+Montemor	[CAT=np]
+Odisseia	[CAT=np]
+Olivares	[CAT=np]
+Pacífico	[CAT=np]
+Pártenon	[CAT=np]
+Paulista	[CAT=np]
+Piemonte	[CAT=np]
+Pombeiro	[CAT=np]
+Rockford	[CAT=np]
+Saldanha	[CAT=np]
+"Sá	[CAT=np,SEM=p]"
+"Satã	[CAT=np,G=m]"
+Satureja	[CAT=np]
+Serafins	[CAT=np]
+Sinédrio	[CAT=np]
+Sinopsis	[CAT=np]
+Siracusa	[CAT=np]
+Soleimão	[CAT=np]
+Solimões	[CAT=np]
+Sporting	[CAT=np]
+Suriname	[CAT=np]
+Trindade	[CAT=np]
+Turíngia	[CAT=np]
+Venusino	[CAT=np]
+"VI	[CAT=np,SEM=n]"
+Vilariça	[CAT=np]
+"XI	[CAT=np,SEM=n]"
+"XV	[CAT=np,SEM=n]"
+"XX	[CAT=np,SEM=n]"

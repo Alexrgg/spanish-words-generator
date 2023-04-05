@@ -1,0 +1,102 @@
+anticorporativismo
+antiespiritualismo
+"cem	[CAT=card,N=p]"
+constitucionalismo
+constitucionalista
+constitucionalizar
+contranaturalidade
+corresponsabilizar
+depressa	[CAT=adv]
+descontextualizado
+"dez	[CAT=card,N=p]"
+durante	[CAT=prep]
+eletronegatividade
+enquanto	[CAT=con]
+hipersensibilidade
+imperturbabilidade
+improrrogabilidade
+incombustibilidade
+incomunicabilidade
+inconciliabilidade
+incondicionalidade
+incontestabilidade
+incorruptibilidade
+indestrutibilidade
+indiscernibilidade
+indispensabilidade
+insubstancialidade
+interdepartamental
+intergovernamental
+internacionalidade
+intersubjetividade
+"mil	[CAT=card,N=p]"
+mormente	[CAT=adv]
+nenhures	[CAT=adv]
+noutrora	[CAT=adv]
+perante	[CAT=prep]
+perpendicularidade
+portanto	[CAT=con]
+predestinacionismo
+preexistencialismo
+primeiro	[CAT=adv]
+radioluminescência
+representatividade
+segundo	[CAT=prep]
+semicircunferência
+supercondutividade
+tampouco	[CAT=adv]
+transcendentalizar
+transmissibilidade
+truz-truz	[CAT=in]
+vosmecê	[CAT=ppes]
+Assembler	[CAT=np]
+cibercriminalidade
+"Linux	[CAT=np,G=m]"
+"Abu	[CAT=np,SEM=p]"
+"Cid	[CAT=np,SEM=p]"
+Colegiada	[CAT=np]
+Curiácios	[CAT=np]
+Desidério	[CAT=np]
+Escritura	[CAT=np]
+"Estio	[CAT=np,G=m]"
+Feldspato	[CAT=np]
+Gibraltar	[CAT=np]
+Heliodoro	[CAT=np]
+"III	[CAT=np,SEM=n]"
+Jerónimos	[CAT=np]
+Jerusalém	[CAT=np]
+Jurássico	[CAT=np]
+Lusitânia	[CAT=np]
+Macedónia	[CAT=np]
+Macintosh	[CAT=np]
+Madredeus	[CAT=np]
+Moçâmedes	[CAT=np]
+Nicarágua	[CAT=np]
+Normandos	[CAT=np]
+Palestina	[CAT=np]
+Paquistão	[CAT=np]
+Patagónia	[CAT=np]
+"Pio	[CAT=np,SEM=p]"
+Pontífice	[CAT=np]
+Prudêncio	[CAT=np]
+Santander	[CAT=np]
+Tarquínio	[CAT=np]
+"Tauro	[CAT=np,G=m]"
+Teodoreto	[CAT=np]
+Teodorico	[CAT=np]
+Teofrasto	[CAT=np]
+Toarciano	[CAT=np]
+Tucídides	[CAT=np]
+Vassoural	[CAT=np]
+"Vaz	[CAT=np,SEM=p]"
+Veríssimo	[CAT=np]
+Versalhes	[CAT=np]
+"VII	[CAT=np,SEM=n]"
+Vilarinho	[CAT=np]
+"Virgo	[CAT=np,G=m]"
+Xenofonte	[CAT=np]
+"XII	[CAT=np,SEM=n]"
+"XIV	[CAT=np,SEM=n]"
+"XIX	[CAT=np,SEM=n]"
+"XVI	[CAT=np,SEM=n]"
+"XXI	[CAT=np,SEM=n]"

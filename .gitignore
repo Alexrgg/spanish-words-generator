@@ -1,9 +1,5 @@
 
-data
-data/*
-output
-output/experimento1
-output/*
-output/experimento1/*
+output/experimento1/evaluacion/*
+output/experimento1/checkpoints/*
 .DS_Store
 

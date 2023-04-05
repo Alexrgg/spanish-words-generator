@@ -1,0 +1,113 @@
+ante-à-ré	[CAT=adv]
+antiparlamentarismo
+aquém-mar	[CAT=adv]
+"ás	[CAT=nc,G=m,N=s]"
+"bê	[CAT=nc,G=m,N=s]"
+catodoluminescência
+"cê	[CAT=nc,G=m,N=s]"
+conquanto	[CAT=con]
+constitucionalidade
+consubstancialidade
+"dó	[CAT=nc,G=m,N=s]"
+doravante	[CAT=adv]
+"doze	[CAT=card,N=p]"
+eletroluminescência
+"fá	[CAT=nc,G=m,N=s]"
+"fé	[CAT=nc,G=f,N=s]"
+imprescritibilidade
+impressionabilidade
+improporcionalidade
+inclusive	[CAT=adv]
+incomensurabilidade
+incompressibilidade
+irmãmente	[CAT=adv]
+irrepreensibilidade
+"lá	[CAT=nc,G=m,N=s]"
+"ló	[CAT=nc,G=m,N=s]"
+mediante	[CAT=prep]
+"mi	[CAT=nc,G=m,N=s]"
+"nê	[CAT=nc,G=m,N=s]"
+"oito	[CAT=card,N=p]"
+"onze	[CAT=card,N=p]"
+outrossim	[CAT=adv]
+ovolactovegetariano
+"pê	[CAT=nc,G=m,N=s]"
+"pi	[CAT=nc,G=m,N=s]"
+porquanto	[CAT=con]
+radiossensibilidade
+"ré	[CAT=nc,G=f,N=s]"
+"rê	[CAT=nc,G=m,N=s]"
+"ró	[CAT=nc,G=m,N=s]"
+"seis	[CAT=card,N=p]"
+"sete	[CAT=card,N=p]"
+"si	[CAT=nc,G=m,N=s]"
+sobremodo	[CAT=adv]
+tão-pouco	[CAT=adv]
+"tê	[CAT=nc,G=m,N=s]"
+transcendentalidade
+"três	[CAT=card,N=p]"
+"vê	[CAT=nc,G=m,N=s]"
+"Pascal	[CAT=np,G=m]"
+Postscript	[CAT=np]
+"XP	[CAT=nc,G=m,N=s]"
+"Avis	[CAT=np,SEM=p]"
+"Baco	[CAT=np,SEM=p]"
+"Baía	[CAT=np,SEM=p]"
+"Bíblia	[CAT=np,G=f]"
+"Brás	[CAT=np,SEM=p]"
+Cristiânia	[CAT=np]
+"Cruz	[CAT=np,SEM=p]"
+"Dan	[CAT=np,SEM=p1]"
+"Don	[CAT=np,SEM=p1]"
+"Fafe	[CAT=np,SEM=p]"
+"Feio	[CAT=np,SEM=p]"
+Fontainhas	[CAT=np]
+"Gaio	[CAT=np,SEM=p]"
+"Geiger	[CAT=np,G=m]"
+Gregoriano	[CAT=np]
+Habsburgos	[CAT=np]
+Hanseática	[CAT=np]
+Horofernes	[CAT=np]
+Ismaelitas	[CAT=np]
+Jarreteira	[CAT=np]
+"Leal	[CAT=np,SEM=p]"
+"Lima	[CAT=np,SEM=p]"
+"Lobo	[CAT=np,SEM=p]"
+"Luc	[CAT=np,SEM=p1]"
+Marselhesa	[CAT=np]
+"Max	[CAT=np,SEM=p1]"
+Melanésios	[CAT=np]
+"Melo	[CAT=np,SEM=p]"
+"Mota	[CAT=np,SEM=p]"
+Ostrogodos	[CAT=np]
+Pantagruel	[CAT=np]
+"Páscoa	[CAT=np,G=f]"
+"Pato	[CAT=np,SEM=p]"
+"Pégaso	[CAT=np,G=m]"
+Pelourinho	[CAT=np]
+Pinacoteca	[CAT=np]
+"Pina	[CAT=np,SEM=p]"
+Pneumática	[CAT=np]
+"Polo	[CAT=np,SEM=p]"
+Protágoras	[CAT=np]
+"Raul	[CAT=np,SEM=p]"
+"Real	[CAT=np,SEM=p]"
+"Rego	[CAT=np,SEM=p]"
+"Reis	[CAT=np,SEM=p]"
+"Roy	[CAT=np,SEM=p1]"
+Salvaterra	[CAT=np]
+"Sam	[CAT=np,SEM=p1]"
+Segismundo	[CAT=np]
+"Siza	[CAT=np,SEM=p]"
+Tertuliano	[CAT=np]
+"Tim	[CAT=np,SEM=p1]"
+Trigueiros	[CAT=np]
+"Vale	[CAT=np,SEM=p]"
+"Van	[CAT=np,SEM=p1]"
+Venezianos	[CAT=np]
+"VIII	[CAT=np,SEM=n]"
+"Von	[CAT=np,SEM=p1]"
+"XIII	[CAT=np,SEM=n]"
+"XVII	[CAT=np,SEM=n]"
+"XXII	[CAT=np,SEM=n]"
+"Zola	[CAT=np,SEM=p]"

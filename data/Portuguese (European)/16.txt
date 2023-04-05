@@ -1,0 +1,227 @@
+acerca	[CAT=adv]
+adrede	[CAT=adv]
+aerotransportado
+afinal	[CAT=adv]
+afora	[CAT=prep]
+alerta	[CAT=adv]
+amiúde	[CAT=adv]
+anticlericalismo
+anticristianismo
+antropocentrismo
+apenas	[CAT=adv]
+apenas	[CAT=con]
+apercetibilidade
+assimilabilidade
+autodecomposição
+autodeterminação
+autodeterminismo
+autossuficiência
+autossugestionar
+bioluminescência
+caramba	[CAT=in]
+catapus	[CAT=in]
+compensacionismo
+comunicabilidade
+conceptibilidade
+condensabilidade
+condicionalidade
+confortabilidade
+congregacionista
+consciencialismo
+consciencializar
+conservabilidade
+contestabilidade
+continentalidade
+contra-almirante
+contrainformação
+contrapontística
+contraproducente
+contrarrevolução
+contratorpedeiro
+convencionalismo
+conversibilidade
+convulsibilidade
+coragem	[CAT=in]
+cuidado	[CAT=in]
+dantes	[CAT=adv]
+desde	[CAT=prep]
+desentrincheirar
+dispensabilidade
+dissociabilidade
+distensibilidade
+distributividade
+económico-social
+eletromagnetismo
+embora	[CAT=adv]
+embora	[CAT=con]
+endocrinologista
+entre	[CAT=prep]
+espetaculosidade
+extemporaneidade
+extracontinental
+extraterritorial
+extrema-esquerda
+governador-civil
+governador-geral
+grátis	[CAT=adv]
+heureca	[CAT=in]
+hidroagricultura
+homessa	[CAT=in]
+homossexualidade
+imensurabilidade
+impermeabilidade
+impressibilidade
+inalienabilidade
+inalterabilidade
+inamissibilidade
+inaplicabilidade
+incoercibilidade
+incompatibilizar
+incomutabilidade
+inconstitucional
+indefetibilidade
+indivisibilidade
+inexcitabilidade
+inexequibilidade
+infatigabilidade
+infetocontagioso
+inseparabilidade
+instrumentalizar
+intelectualidade
+inteligibilidade
+intempestividade
+intencionalidade
+intercomunicador
+intercontinental
+interdependência
+interdisciplinar
+inter-relacionar
+intervencionismo
+intervencionista
+intolerabilidade
+intra	[CAT=pref]
+inverosimilhante
+irredutibilidade
+irrefutabilidade
+irretroatividade
+irrevogabilidade
+melhor	[CAT=adv]
+melindrabilidade
+microprocessador
+ministro-adjunto
+multidisciplinar
+multi	[CAT=pref]
+neurotransmissor
+nicles	[CAT=adv]
+perfectibilidade
+perturbabilidade
+plenipotenciário
+porque	[CAT=con]
+porta-estandarte
+possessibilidade
+preponderantismo
+procurador-geral
+profissionalismo
+profissionalizar
+providencialismo
+pseudodebilidade
+putrescibilidade
+quadringentésimo
+quando	[CAT=con]
+radiocomunicação
+recém	[CAT=pref]
+regenerabilidade
+respeitabilidade
+responsabilidade
+retrospetividade
+secretário-geral
+sempre	[CAT=adv]
+sentimentalidade
+sequer	[CAT=adv]
+sobre	[CAT=prep]
+sobrenaturalismo
+sobrenaturalizar
+socorro	[CAT=in]
+substancialidade
+superficialidade
+superintendência
+super	[CAT=pref]
+supranaturalismo
+sustentabilidade
+talvez	[CAT=adv]
+também	[CAT=adv]
+também	[CAT=con]
+tão-só	[CAT=adv]
+territorialidade
+toxicodependente
+tradicionalidade
+transformacional
+transfronteiriço
+transitabilidade
+transversalidade
+ultraliberalismo
+ultra	[CAT=pref]
+videoconferência
+Fortran	[CAT=np]
+British	[CAT=np]
+Carmelo	[CAT=np]
+College	[CAT=np]
+Corvina	[CAT=np]
+Corvino	[CAT=np]
+Czardas	[CAT=np]
+Electra	[CAT=np]
+Filipos	[CAT=np]
+Francos	[CAT=np]
+Galácia	[CAT=np]
+Gerardo	[CAT=np]
+Gôngora	[CAT=np]
+Guelfos	[CAT=np]
+Guianas	[CAT=np]
+Hanôver	[CAT=np]
+Hispano	[CAT=np]
+Joanina	[CAT=np]
+Juliano	[CAT=np]
+Lausana	[CAT=np]
+Leandro	[CAT=np]
+Limpopo	[CAT=np]
+Melinde	[CAT=np]
+Memphis	[CAT=np]
+Menelau	[CAT=np]
+Messina	[CAT=np]
+Minerva	[CAT=np]
+Mistral	[CAT=np]
+Morávia	[CAT=np]
+Morgado	[CAT=np]
+Navarra	[CAT=np]
+Ontário	[CAT=np]
+Orestes	[CAT=np]
+Orontes	[CAT=np]
+Pandora	[CAT=np]
+Pascoal	[CAT=np]
+Pestana	[CAT=np]
+Phoenix	[CAT=np]
+Renânia	[CAT=np]
+Salemas	[CAT=np]
+Salsete	[CAT=np]
+Serpula	[CAT=np]
+Society	[CAT=np]
+Solimão	[CAT=np]
+Sorbona	[CAT=np]
+Sudetas	[CAT=np]
+Tárrega	[CAT=np]
+Taschen	[CAT=np]
+Tauride	[CAT=np]
+Tebaldo	[CAT=np]
+Telesio	[CAT=np]
+Tesauro	[CAT=np]
+Ticiano	[CAT=np]
+Titânia	[CAT=np]
+Titanic	[CAT=np]
+"V	[CAT=np,SEM=n]"
+Vergara	[CAT=np]
+Veronês	[CAT=np]
+Vilhena	[CAT=np]
+Vístula	[CAT=np]
+Vulcano	[CAT=np]
+Vulgata	[CAT=np]
+"X	[CAT=np,SEM=n]"
