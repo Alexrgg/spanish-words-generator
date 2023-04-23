@@ -16,8 +16,8 @@ def parse_args():
                         dest='input_test',
                         help='The test file for comparison')
     
-    parser.add_argument('--input-duplicates', '-d',
-                        dest='input_duplicates',
+    parser.add_argument('--input-train', '-d',
+                        dest='input_train',
                         help='The file containing passwords in both test and generated file')
     
     parser.add_argument('--n-passwords', '-p',
@@ -59,13 +59,18 @@ def accuracy(path_generated, path_test, n_passwords=10**8):
     return result_df
  """   
 
-def accuracy_vec(path_generated, path_test, n_passwords_vec):
+def accuracy_vec(path_generated, path_test, path_train,n_passwords_vec):
     df=pd.DataFrame({})
 
     #leer contraseñas
     generated_file = open(path_generated, 'r').readlines()
     test_data = open(path_test, 'r').readlines()
-    test_data = set(test_data)
+    train_data = open(path_train, 'r').readlines()
+    
+    if path_test!=path_train:
+        test_data = set(test_data) - set(train_data)
+    else:
+        test_data = set(test_data)
          
     for n_passwords in n_passwords_vec:
 
@@ -92,7 +97,7 @@ def accuracy_vec(path_generated, path_test, n_passwords_vec):
         
 
     return 
-accuracy_vec(args.input_generated, args.input_test,args.n_passwords_vec)
+accuracy_vec(args.input_generated, args.input_test,args.input_train,args.n_passwords_vec)
 
 
     
