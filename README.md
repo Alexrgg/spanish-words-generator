@@ -1,6 +1,6 @@
 # LanguageGAN
 
-Este repositorio contiene la práctica final de texto de la asignatura datos no estructurados. en ella se ha implementado hoy un modelo de texto generativo mediante el uso de GANs con el objetivo de generar palabras nuevas de un idioma. 
+Este repositorio contiene la práctica final de texto de la asignatura Datos No Estructurados del Master de ICAI, Master de Big Data y Analítica Avanzada. en ella se ha implementado hoy un modelo de texto generativo mediante el uso de GANs con el objetivo de generar palabras nuevas de un idioma. 
 
 Para ello se ha entrenado primero la GAN con el lenguaje español. Después, se han probado a generar palabras nuevas y midiendo cuantas de esas palabras nuevas se encuntran en el conjunto de test, es decir, son palabras qué verdaderamente existen.
 
