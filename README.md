@@ -1,6 +1,6 @@
 # LanguageGAN
 
-Este repositorio contiene la práctica final de texto de la asignatura Datos No Estructurados del Master de ICAI, Master de Big Data y Analítica Avanzada. en ella se ha implementado hoy un modelo de texto generativo mediante el uso de GANs con el objetivo de generar palabras nuevas de un idioma. 
+Este repositorio contiene la práctica final de texto de la asignatura Datos No Estructurados del Master de ICAI, Master de Big Data y Analítica Avanzada. En el proyecto se ha implementado un modelo de texto generativo con el objetivo de generar palabras nuevas de un idioma basado en el uso de una arquitectura GANs. 
 
 Para ello se ha entrenado primero la GAN con el lenguaje español. Después, se han probado a generar palabras nuevas y midiendo cuantas de esas palabras nuevas se encuntran en el conjunto de test, es decir, son palabras qué verdaderamente existen.
 
@@ -84,6 +84,6 @@ En la gráfica se observa como a medid que se genera un volumen más grande de p
 
 ![Guessing Accuracy Logaritmic](./img/guessing_accuracy_logaritmic.png)
 
-El porcentaje de palabras generadas qué se encuentren en el conjunto de test se tomará como el accuracy. Hay qué apuntar qué no se puede esperar un 80% - 90%, por ello es razonable es conseguir entono a un 5% ya qué esto significa qué se han generado aleatoriamente 5% de las contraseñas qué no se han usado para entrenarlo.
+El porcentaje de palabras generadas qué se encuentren en el conjunto de test se tomará como el accuracy. Hay qué apuntar qué no se puede esperar un 80% - 90%, por ello es razonable es conseguir entono a un 5% ya qué esto significa qué se han generado aleatoriamente 5% de las palabras qué no se han usado para entrenarlo.
 
 Una de las principales conclusiones que se extraen es que el modelo es capaz de generar palabras que existen en otros idiomas. Esto es especialmente significativo ya que son plabras reales de otros idiomas pero con las que no se le han entrenado. Además, se puede hacer una clasificaión de que idiomas tiene palabras más similares al Español: El portugues es el más parecido seguido de cerca por el Italiano, después el Catalán y luego el Frances.
